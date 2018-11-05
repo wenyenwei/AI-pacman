@@ -1,2 +1,2 @@
 ## AI-pacman
-Temperal Differnece Reinforcement Learning + Weight Approximation Implementation
+Temperal Difference Reinforcement Learning + Weight Approximation Implementation
